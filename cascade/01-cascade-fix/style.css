@@ -1,0 +1,56 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.para {
+  font-size: 32px;
+  font-weight: extra-bold;
+  font-family: Helvetica, sans-serif;
+}
+
+.small-para {
+  font-size: 20px;
+  font-weight: extra-bold;
+}
+ 
+.para,
+.small-para {
+  color: hsl(0, 0%, 0%);
+  font-weight: 800;
+}
+
+.confirm {
+  background: green;
+  color: white;
+  font-weight: bold;
+} 
+
+.button {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+
+#confirm-button {
+  background-color: green;
+  border: 2px solid black;  
+  color: white;
+}
+
+#cancel-button {
+  border: 2px solid black;  
+  color: black;
+}
+
+div.text {
+  color: rgb(0, 0, 0);
+  font-size: 32px;
+  font-weight: 100;
+}
+
+.text .child {
+  color: black;
+  font-weight: 1000;
+  font-family: Helvetica, sans-serif;
+  font-size: 20px;
+}
