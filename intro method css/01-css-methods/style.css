@@ -5,3 +5,8 @@ div {
     font-weight: 800;
     padding-left: 400px;
 }
+
+button {
+    font-size: 18px;
+    background-color: orange;
+}
