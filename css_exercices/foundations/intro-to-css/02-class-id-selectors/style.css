@@ -1,3 +1,20 @@
 .cool-class {
-    color: red;
+    color: black;
+    background-color: pink;
+    font-family: verdana, sans-serif;
+}
+
+#fash {
+    font-size: 36px;
+    color: blue; 
+}
+
+.sort {
+    font-size: 30px;
+}
+
+#fa_sh {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
