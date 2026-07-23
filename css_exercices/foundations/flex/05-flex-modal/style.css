@@ -17,6 +17,8 @@ body {
 
 .header {
   margin-bottom: 15px;
+  font-weight: 1000;
+  font-size: 20px;
 }
 .modal {
   background: white;
