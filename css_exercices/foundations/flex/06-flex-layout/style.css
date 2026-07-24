@@ -23,6 +23,18 @@ body {
   bottom: 0;
   left: 0;
 }
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.log {
+  display: flex;
+}
+
+
 .left-links, .right-links {
   display: flex;
   gap: 10px;
@@ -32,6 +44,12 @@ body {
   justify-content: center;
 }
 
+.buttons {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  padding: 40px;
+}
 a {
   text-decoration: none;
   color: gray;
@@ -50,6 +68,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  display: flex;
 }
 
 input {
